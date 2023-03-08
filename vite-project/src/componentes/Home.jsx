@@ -1,7 +1,7 @@
 import React from 'react'
 import Card from './Card'
 import Navbar from './Navbar'
-import { homeStyle } from './componentes/homeStyle'
+import { homeStyle } from './homeStyle'
 
 
 
